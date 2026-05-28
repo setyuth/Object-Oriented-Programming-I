@@ -1,4 +1,4 @@
-# OOP-Concepts-Object-Oriented-Programming-I
+# Object-Oriented-Programming-I
 ---
 
 ### Course Introduction
