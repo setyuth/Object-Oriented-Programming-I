@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOP_Week1/OOP_Week1.iml" filepath="$PROJECT_DIR$/OOP_Week1/OOP_Week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Week2/OOP_Week2.iml" filepath="$PROJECT_DIR$/OOP_Week2/OOP_Week2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Object-Oriented-Programming-I.iml" filepath="$PROJECT_DIR$/.idea/Object-Oriented-Programming-I.iml" />
     </modules>
   </component>
